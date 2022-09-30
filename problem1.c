@@ -12,6 +12,8 @@ else
     return a*MyPow(a,b-1);
 }
 
+//hello i am shaan
+
 int highestbase(int number, int base){
     int highbase = 0;
     while (number>MyPow(base,highbase)){
